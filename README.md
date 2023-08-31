@@ -19,5 +19,8 @@ gradle build
 ```
 
 
-
 See https://github.com/romangraef/Forge1.8.9Template/blob/master/README.md for more details
+
+
+## License 
+[GPLv3](https://github.com/kaanyalova/NoNightVision/blob/master/LICENSE.md)
