@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "No Night Vision",
+    "description": "A simple mod that completely removes night vision client-side.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/kaanyalova/NoNightVision",
+    "updateUrl": "",
+    "authorList": [
+      "kaanyalova"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
